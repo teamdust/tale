@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "생산 1팀"
+author: "team dust"
 permalink: /about/
 ---
 
