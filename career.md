@@ -80,7 +80,7 @@ author: "oh-really"
 ### 2011
 
 - **eSNSMate Solution** - SNS 솔루션 Mobile Web *네트빌*
-- **스마트론 App** - 스마트 대출 고도화 Native App (IOS, Android) *현대스위스저축은행* 
+- **[스마트론 App](http://teamdust.cafe24.com/hyundaiSwiss/html/index.html)** - 스마트 대출 고도화 Hybrid App (IOS, Android) *현대스위스저축은행* 
 - **대우증권 게시판** - *대우증권*
 - **현대스위스 인터넷뱅킹 고도화** - *현대스위스저축은행*
 - **eSNSMate Solution** - SNS 솔루션 *네트빌*
