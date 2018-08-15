@@ -5,11 +5,87 @@ author: "team dust"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+## 생산만이 살 길이다.
+생산1팀은 연구하는 여성들의 모임입니다.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
 
-Thanks for reading!
+연구를 업으로 하는 사람도 있고, 그렇지 않은 사람도 있습니다. 논문이란 걸 쓴 사람도 있고, 그렇지 않은 사람도 있습니다. 어쨌거나 우리는 자기 삶의 문제, 나에게 자꾸만 신경이 쓰이는 문제를 연구하고 싶습니다. 우리를 '독립 연구자'라 해도 좋고, '생활 연구자'라 해도 좋습니다. 삶의 주제를 혼자 연구하는 것은 쉽지 않기에, 느릿느릿 서로 삶에서 연구를 놓지 않도록 격려해주는 모임입니다. 2018년 2월 결성되었습니다.
+
+ 
+
+**문제의식** 
+
+우리는 연구를 '질문을 던지고 답을 찾아 가는 과정'으로 정의합니다. 비싼 돈을 내고 대학원에 가거나, 큰 연구소의 직원이 되지 않더라도 누구나 자기 삶에서 질문을 던지고 답을 찾을 수 있기를 바랍니다. 
+
+ 
+
+**여성 연구자** 
+
+자기 삶에 질문을 던지고 답을 찾아 온 여성들이 세상을 바꾸었습니다. 
+
+연구하는 여성으로 살기란 쉽지 않습니다.
+
+여성이 연구하는 삶을 응원합니다.
+
+ 
+
+**대중적 연구물** 
+
+전문가들만이 읽을 수 있는 언어로 쓰여진 논문이라는 방식 외의 것들을 시도합니다. 자기 삶이 궁금한 사람, 연구물이 필요한 사람이 편하게 읽을 수 있는 다양한 연구물을 생산하고자 합니다.
+
+ 
+
+**허스토리** 
+
+2018년 2월 처음 모였습니다 
+
+왜 이름이 <생산1팀>인지, 멤버들은 <먼지>로 불리는지 등이 궁금하다면
+
+[**연구하고픈 먼지들의 모임, 생산1팀 탄생기**](https://steemit.com/kr-teamdust/@teamdust/1)
+
+
+
+**활동**
+
+\- 일주일에 한번 모든 멤버들이 서로에게 ‘질문으로 시작하는 레터’를 씁니다
+
+\- 정기적으로 만나서 삶에서 발견한 연구주제를 논의하고, 공동의 연구를 모색합니다
+
+\- 우리의 연구물을 시민들과 함께 나눌 기회를 만들고자 합니다
+
+ 
+
+**함께 하고싶다면**
+
+\- 홈페이지와 스팀잇으로 발간되는 우리의 콘텐츠를 읽고 반응(조언, 응원 등)을 남겨주세요
+
+\- 시민들과 함께 할 기회를 만들면 알리고 함께 할 것을 제안하겠습니다(하지만 아직은 우리에게 준비가 필요해요)
+
+\- 생산2팀, 생산3팀 .... 등을 만드신다면 도와드리고, 교류하고 싶습니다
+
+ 
+
+**먼지 소개**
+
+: 우리는 멤버를 '먼지'라고 부릅니다
+
+
+
+------
+
+\- 멤버 각자 소개 -
+
+ 
+
+------
+
+ 
+
+**contact**
+
+이메일 teamdust0219@gmail.com 
+
+홈페이지 https://teamdust.github.io
+
+SNS https://steemit.com/@teamdust
