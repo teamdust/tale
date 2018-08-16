@@ -1,9 +1,3 @@
----
-layout: post
-title: "Career"
-author: "oh-really"
----
-
 
 
 ## Work
